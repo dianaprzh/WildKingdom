@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WildKingdom</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textView_welcome_msg">Welcome! here you will find the description of the following animals:</string>
+    <string name="textView_brown_bear">Brown Bear</string>
+    <string name="textView_grizzly_bear">Grizzly Bear</string>
+    <string name="textView_wombat">Wombat</string>
+    <string name="textView_gecko">Gecko</string>
+    <string name="textView_coral_snake">Coral Snake</string>
+    <string name="textView_tortoise">Tortoise</string>
+    <string name="button_start">Start!</string>
+    <string name="textView_brown_bear_title">BROWN BEAR</string>
+    <string name="textView_habitat">Habitat:</string>
+    <string name="textView_habitat_brownBear">Brown bears can be found in many habitats, from the fringes of deserts to high mountain forests and ice fields.</string>
+    <string name="textView_description">Description:</string>
+    <string name="textView_description_bb">Is a large bear distributed across much of northern Eurasia and North America. Adult bears generally weigh between 100 and 635 kg (220 and 1,400 lb). Its largest subspecies, the Kodiak bear, rivals the polar bear as the largest member of the bear family and as the largest land-based predator.</string>
+    <string name="button_next">Next</string>
+    <string name="textView_grizzly_bear_title">GRIZZLY BEAR</string>
+    <string name="textView_habitat_gb">Are found many different habitats, from dense forests to subalpine meadows, open plains and arctic tundra</string>
+    <string name="textView_description_gb">Is any North American subspecies of the brown bear, including the mainland grizzly, the Kodiak bear, the peninsular grizzly, and the recently extinct California grizzly and Mexican grizzly bear.</string>
+    <string name="textView_wombat_title">WOMBAT</string>
+    <string name="textView_habitat_w">They are adaptable in habitat tolerance, and are found in forested, mountainous, and heathland areas of south-eastern Australia, including Tasmania, as well in Epping Forest National Park in central Queensland.</string>
+    <string name="textView_description_w">Wombats dig extensive burrow systems with their rodent-like front teeth and powerful claws. One distinctive adaptation of wombats is their backwards pouch.</string>
+    <string name="textView_gecko_title">GECKO</string>
+    <string name="textView_habitat_g">Are found in a wide variety of habitats in the warmer parts of the world including rocky deserts, mountains, jungles, rainforests, grasslands and even in urban areas where it is common to find geckos in houses</string>
+    <string name="textView_description_g">Geckos are well known for their amazing ability to walk up vertical surfaces even those as smooth as glass. The feet of the gecko are covered in tiny hairs that stick to surfaces like sucker pads.</string>
+    <string name="textView_panda_title">PANDA</string>
+    <string name="textView_habitat_p">Is on the mountainous edge of the Tibet-Qinghai Plateau, Central-West and Southwest China. Giant pandas mainly live Sichuan, with a few populations in Shaanxi and Gansu.</string>
+    <string name="textView_description_p">It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. The name \"giant panda\" is sometimes used to distinguish it from the unrelated red panda.</string>
+    <string name="textView_tortoise_title">TORTOISE</string>
+    <string name="textView_habitat_t">Most desert tortoises live in creosote bush scrub habitat at elevations ranging from 1,000 to 3,000 feet above sea level, although they are known to occur in suitable habitats up to about 5,000 feet in elevation.</string>
+    <string name="textView_description_t">ortoises are in fact turtles rather than part of a separate group. Like most turtles, tortoises are shielded from predators by a shell. The top part of the shell is the carapace, the underside is the plastron, and the two are connected by the bridge.</string>
+
+</resources>

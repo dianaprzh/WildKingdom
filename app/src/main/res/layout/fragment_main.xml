@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/textView_welcome_msg"
+        android:id="@+id/textView_welcome_msg"
+        android:gravity="center"
+        android:textColor="#ffff501b" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView_brown_bear"
+        android:id="@+id/textView_brown_bear"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:gravity="left" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView_grizzly_bear"
+        android:id="@+id/textView_grizzly_bear"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView_wombat"
+        android:id="@+id/textView_wombat"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView_gecko"
+        android:id="@+id/textView_gecko"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView_coral_snake"
+        android:id="@+id/textView_coral_snake"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView_tortoise"
+        android:id="@+id/textView_tortoise"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_start"
+        android:id="@+id/button_start"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button_background" />
+
+</LinearLayout>
